@@ -78,7 +78,7 @@ body {
 }
 
 /* Contenedor del banner detalles */
-.banner-container-2 {
+.banner-container {
     position: relative;
     overflow: hidden;
     max-height: 800px;
